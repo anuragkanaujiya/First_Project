@@ -68,12 +68,6 @@ body {
 .right-nav a {
     text-decoration: none;
     font-size: clamp(0.59rem, 2.2vw, 0.85rem);
-    /* background-color: black;
-    color: white;
-    
-    padding: min(5rem, 2vh) min(2.5rem, 2.7vw);
-    border-radius: 40px;
-    border: 2px solid greenyellow; */
 }
 
 video {
@@ -605,15 +599,6 @@ video {
 
 #text-food a {
     text-decoration: none;
-    /* font-size: clamp(0.59rem, 2.2vw, 0.85rem); */
-    /* position: relative; */
-    /* color: white; */
-    /* padding: min(0.8rem, 10%) min(2.3rem, 5vw); */
-    /* width: fit-content; */
-    /* border: 2px solid greenyellow; */
-    /* border-radius: 2rem; */
-    /* text-transform: uppercase; */
-    /* font-size: clamp(0.8rem, 1.1vw, 1.2rem); */
 }
 
 #insta-container {
